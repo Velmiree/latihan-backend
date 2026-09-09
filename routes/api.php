@@ -9,3 +9,11 @@ Route::get('/ping', function () {
         'time' => now()->toIso8601String(),
     ]);
 });
+
+Route::get('/info', function () {
+    return response()->json([
+        'team' => 'Rosemary',
+        'members' => 2,
+        'php_version' => PHP_VERSION,
+    ]);
+});
