@@ -17,3 +17,10 @@ Route::get('/info', function () {
         'php_version' => PHP_VERSION,
     ]);
 });
+
+Route::get('/profil-Velmiree', function () {
+    return response()->json([
+        'nama' => 'Velmiree',
+        'peran' => 'Back End Developer',
+    ]);
+});
