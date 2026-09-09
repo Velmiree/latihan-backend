@@ -27,3 +27,7 @@ Akan diisi berdasarkan studi kasus pada Modul 4.
 
 ```bash
 php artisan serve
+
+## Keterangan
+
+README versi branch B.
