@@ -1,0 +1,7 @@
+# Refleksi AI dalam Pembelajaran
+
+Penggunaan AI dalam pembelajaran dapat memberikan manfaat jika digunakan secara bijak. AI dapat membantu mahasiswa memahami konsep yang belum dipahami, memberikan penjelasan dengan bahasa yang lebih sederhana, serta membantu menemukan kesalahan ketika mengerjakan kode. Dalam pembelajaran pemrograman back end, AI juga dapat membantu menjelaskan fungsi suatu perintah atau memberikan contoh penggunaan sintaks.
+
+Namun, penggunaan AI juga memiliki risiko. Mahasiswa dapat menjadi terlalu bergantung pada AI sehingga kurang berusaha memahami materi secara mandiri. Selain itu, jawaban yang diberikan AI belum tentu selalu benar sehingga tetap diperlukan proses pengecekan dan pengujian. Penggunaan AI tanpa memahami hasilnya juga dapat membuat mahasiswa kesulitan ketika harus menjelaskan atau mempertanggungjawabkan pekerjaannya.
+
+Menurut saya, AI sebaiknya digunakan sebagai alat bantu belajar, bukan sebagai pengganti proses berpikir. Setiap kode atau informasi yang diberikan AI perlu dipahami, diperiksa, dan diuji sebelum digunakan. Dengan cara tersebut, AI dapat membantu proses pembelajaran tanpa mengurangi kemampuan mahasiswa untuk berpikir kritis dan menyelesaikan masalah secara mandiri.
